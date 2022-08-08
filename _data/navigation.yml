@@ -1,6 +1,18 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve designed, developed, coded, and such."
+  image: habitoro.png
+
+
+- title: Github
+  url: http://github.com/helyne
+
+# - title: CV
+#   url: http://github.com/helyne/helyne.github.io/assets/cv.pdf
+  
+- title: About
+  url: /about/
+  excerpt: "A little background"
+  image: profile.jpeg
